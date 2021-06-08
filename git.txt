@@ -1,8 +1,12 @@
 This is my git txt file
 git-> Version Control
 github-> Web Services
-some terms: 
+terms: 
 Repository
 Commit
 
 adding it in unicorn branch
+
+miami 
+miaii
+
